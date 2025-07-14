@@ -11,3 +11,6 @@ Ports:
 80 : http
 
 Region: Is a Location that has one or more Datacentres
+
+RDP : Used to connect to Windows servers
+Putty: Used to connect to linux servers
