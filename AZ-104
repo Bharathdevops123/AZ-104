@@ -2,3 +2,12 @@ Azure Free Account for 12 months
 In this 12 months you have some free services ike 750 hours of VM you can create other than these you will have below
 30 days -200$ Free credits - You will get a notification If these 200$ are finished then you have to go for pay as you go. 
 It will ask your permission to convert from free account to pay as you go subscritption
+
+Resource Group:  Group of resouces.
+  Every resource must be part of a resource group.
+  Its free. no cost will be applied
+
+Ports:
+80 : http
+
+Region: Is a Location that has one or more Datacentres
