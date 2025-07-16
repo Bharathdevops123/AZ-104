@@ -10,7 +10,11 @@ Resource Group:  Group of resouces.
 Ports:
 80 : http
 
-Region: Is a Location that has one or more Datacentres
+Region: Is a Location that has one or more availaility Zones.
+     -In a Region we have 3 to 6 availaility Zones.
+Availability Zones: Is a collection of one or more discrete data centres.
+     -They are separated from each other so that are isolated from disaster
+Now we can say Region is a collection of cluster of datacentres
 
 RDP : Used to connect to Windows servers
 Putty: Used to connect to linux servers
